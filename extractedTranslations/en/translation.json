@@ -1,5 +1,11 @@
 {
+  "Even though a portal can be anywhere in the DOM tree, it behaves like a normal React child in every other way": {
+    " Features like context work exactly the same regardless of whether the child is a portal, as the portal still exists in the React tree regardless of position in the DOM tree": {
+      "": ""
+    }
+  },
   "throw error": "throw error",
+  "Войти": "Войти",
   "Главная": "Главная",
   "Главная страница": "Главная страница",
   "О сайте": "О сайте",
